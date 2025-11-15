@@ -355,8 +355,8 @@ Here’s a preview of the **Photo Album Web Application**:
 <p align="center">
     <em>Arts Page – Art is a form of human expression that communicates ideas.</em>
     <br>
-    <img src="public/images/art.png" alt="Arts 1" width="600">
-    <img src="public/images/art1.png" alt="Arts 2" width="600">
+    <img src="public/images/arts.png" alt="Arts 1" width="600">
+    <img src="public/images/arts1.png" alt="Arts 2" width="600">
  
   
 </p>
