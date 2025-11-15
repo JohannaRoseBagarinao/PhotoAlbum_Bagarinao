@@ -338,8 +338,8 @@ Here’s a preview of the **Photo Album Web Application**:
 <p align="center">
     <em>Movie Genre Page – describes the general style, theme, and mood of a film.</em>
     <br>
-    <img src="public/images/movie.png" alt="Movie 1" width="600">
-    <img src="public/images/movie1.png" alt="Movie 2" width="600">
+    <img src="public/images/movies.png" alt="Movie 1" width="600">
+    <img src="public/images/movies1.png" alt="Movie 2" width="600">
   <br>
 </p>
 
